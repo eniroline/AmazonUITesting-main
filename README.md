@@ -1,16 +1,4 @@
-## 🧾 Sample Test Execution Report
-Below is the TestNG HTML report generated after the latest execution:
 
-<img width="693" height="515" alt="emailable-report" src="https://github.com/user-attachments/assets/4810c265-694d-4652-9d02-0a278e54200f" />
----
-
-# 🧪 Amazon UI Testing Automation Framework    
-
-A complete **Selenium + Cucumber (BDD)** automation framework built using **Java** and **Maven** to test **Amazon’s Search Functionality**.  
-This framework follows the **Page Object Model (POM)** design pattern for clean, maintainable, and scalable test automation.  
-
----
-  
 ## 🚀 Features  
 ✅ End-to-End Amazon Search UI Automation  
 ✅ Behavior-Driven Development (BDD) with **Cucumber**  
@@ -27,7 +15,6 @@ This framework follows the **Page Object Model (POM)** design pattern for clean,
 - Implemented **Page Object Model (POM)** for better maintainability  
 - Used **Cucumber + Selenium WebDriver** for BDD-style testing  
 - Managed dependencies and build using **Maven**  
-- Created **TestNG HTML Reports** for results visualization  
 
 ---
 
@@ -69,15 +56,7 @@ amazon-ui-test/
 3️⃣ Install dependencies: mvn clean install
 4️⃣ Run the TestRunner class:
 Located in src/test/java/com/amazon/runners/TestRunner.java
-5️⃣ View reports:
-Check the test-output folder for HTML reports after execution
-📊 Sample Report Output
 
-✅ TestNG HTML Report:
-Displays detailed pass/fail statistics with execution time and step-level logs.
-
-✅ Cucumber Report:
-Readable BDD-style summary of test scenarios and steps.
 
 🧠 Future Enhancements
 
@@ -101,5 +80,5 @@ selenium cucumber-bdd java maven testng qa automation amazon-ui pom
 ## 🧪 Test Reports & Logs
 This project generates automated HTML reports for every test execution.
 
-![Sample Test Report](./test-output/emailable-report.html)
+TBD
 
